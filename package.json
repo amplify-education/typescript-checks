@@ -21,7 +21,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@octokit/auth-app": "^2.1.2",
+    "@octokit/auth-app": "^3.0.0",
     "@octokit/rest": "^18.5.3",
     "dotenv": "^8.1.0",
     "yargs": "^17.0.1"
